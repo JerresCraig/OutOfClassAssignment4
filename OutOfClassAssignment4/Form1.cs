@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace OutOfClassAssignment4
 {
+    //Jerres Craig
+    //This is my own my own work
+
     public partial class Form1 : Form
     {
         ttt_Button[,] grid = new ttt_Button[3, 3];

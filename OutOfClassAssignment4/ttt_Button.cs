@@ -7,6 +7,9 @@ using System.Windows.Forms;
 
 namespace OutOfClassAssignment4
 {
+    //Jerres Craig
+    //This is my own my own work
+
     class ttt_Button : Button
     {
         public static int Btn_Size = 100;
